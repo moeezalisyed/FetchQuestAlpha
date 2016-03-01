@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+<<<<<<< HEAD
+      <File FileName="Assets/Scripts/GameManager.cs" Line="64" Column="72" />
+      <File FileName="Assets/Scripts/Town.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TownStructure.cs" Line="1" Column="1" />
+=======
+<<<<<<< HEAD
+      <File FileName="Assets/Resources/Scripts/Quest.cs" Line="113" Column="21" />
+      <File FileName="Assets/Resources/Scripts/Hero.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/TownStructure.cs" Line="54" Column="1" />
+      <File FileName="Assets/Resources/Scripts/GameManager.cs" Line="227" Column="4" />
+      <File FileName="Assets/Resources/Scripts/Town.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Player.cs" Line="1" Column="1" />
+=======
+      <File FileName="Assets/Scripts/GameManager.cs" Line="19" Column="51" />
+      <File FileName="Assets/Scripts/Player.cs" Line="55" Column="1" />
+>>>>>>> QuestGiver-Jack-Branch
+>>>>>>> origin/master
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

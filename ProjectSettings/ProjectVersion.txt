@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 5.3.1f1
+=======
+m_EditorVersion: 5.3.3f1
+>>>>>>> QuestGiver-Jack-Branch
+=======
+m_EditorVersion: 5.3.3f1
+=======
+m_EditorVersion: 5.3.1f1
+<<<<<<< Updated upstream
+>>>>>>> master
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+>>>>>>> QuestGiver-Jack-Branch
+m_StandardAssetsVersion: 0
